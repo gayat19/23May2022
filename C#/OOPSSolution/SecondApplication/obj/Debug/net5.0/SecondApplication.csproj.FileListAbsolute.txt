@@ -1,0 +1,16 @@
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\C#\OOPSSolution\SecondApplication\bin\Debug\net5.0\SecondApplication.exe
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\C#\OOPSSolution\SecondApplication\bin\Debug\net5.0\SecondApplication.deps.json
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\C#\OOPSSolution\SecondApplication\bin\Debug\net5.0\SecondApplication.runtimeconfig.json
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\C#\OOPSSolution\SecondApplication\bin\Debug\net5.0\SecondApplication.runtimeconfig.dev.json
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\C#\OOPSSolution\SecondApplication\bin\Debug\net5.0\SecondApplication.dll
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\C#\OOPSSolution\SecondApplication\bin\Debug\net5.0\ref\SecondApplication.dll
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\C#\OOPSSolution\SecondApplication\bin\Debug\net5.0\SecondApplication.pdb
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\C#\OOPSSolution\SecondApplication\obj\Debug\net5.0\SecondApplication.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\C#\OOPSSolution\SecondApplication\obj\Debug\net5.0\SecondApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\C#\OOPSSolution\SecondApplication\obj\Debug\net5.0\SecondApplication.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\C#\OOPSSolution\SecondApplication\obj\Debug\net5.0\SecondApplication.AssemblyInfo.cs
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\C#\OOPSSolution\SecondApplication\obj\Debug\net5.0\SecondApplication.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\C#\OOPSSolution\SecondApplication\obj\Debug\net5.0\SecondApplication.dll
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\C#\OOPSSolution\SecondApplication\obj\Debug\net5.0\ref\SecondApplication.dll
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\C#\OOPSSolution\SecondApplication\obj\Debug\net5.0\SecondApplication.pdb
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\C#\OOPSSolution\SecondApplication\obj\Debug\net5.0\SecondApplication.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\ADOExampleApp\bin\Debug\ADOExampleApp.exe.config
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\ADOExampleApp\bin\Debug\ADOExampleApp.exe
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\ADOExampleApp\bin\Debug\ADOExampleApp.pdb
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\ADOExampleApp\obj\Debug\ADOExampleApp.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\ADOExampleApp\obj\Debug\ADOExampleApp.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\ADOExampleApp\obj\Debug\ADOExampleApp.exe
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\ADOExampleApp\obj\Debug\ADOExampleApp.pdb

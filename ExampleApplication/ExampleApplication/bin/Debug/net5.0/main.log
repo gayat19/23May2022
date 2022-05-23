@@ -1,0 +1,10 @@
+2022-05-23 11:15:43,691 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-05-23 11:15:43,719 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-05-23 11:15:43,723 [1] INFO Microsoft.Hosting.Lifetime - Content root path: D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\ExampleApplication\ExampleApplication
+2022-05-23 11:15:43,953 [4] INFO ExampleApplication.Controllers.HomeController - Index method invoked
+2022-05-23 11:15:44,038 [4] ERROR ExampleApplication.Controllers.HomeController - Arithmetic operation resulted in an overflow.
+2022-05-23 11:16:50,404 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-05-23 11:16:50,429 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-05-23 11:16:50,432 [1] INFO Microsoft.Hosting.Lifetime - Content root path: D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\ExampleApplication\ExampleApplication
+2022-05-23 11:16:50,629 [10] INFO ExampleApplication.Controllers.HomeController - Index method invoked
+2022-05-23 11:16:50,722 [10] ERROR ExampleApplication.Controllers.HomeController - Arithmetic operation resulted in an overflow. 23-05-2022

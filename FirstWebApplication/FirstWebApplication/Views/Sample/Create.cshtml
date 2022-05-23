@@ -1,0 +1,21 @@
+﻿@model FirstWebApplication.Models.Employee
+<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+<style>
+    form{
+        width:300px;
+        position:absolute;
+        left:300px;
+        top:100px;
+    }
+</style>
+@using (Html.BeginForm("Create", "Sample", FormMethod.Post))
+{
+    <label class="form-control">Employee Id</label>
+    @Html.EditorFor(emp=>emp.Id,new{ htmlAttributes=new{@class="form-control"}})
+    @Html.LabelFor(emp=>emp.Name,new{@class="form-control"})
+    @Html.EditorFor(emp=>emp.Name,new{ htmlAttributes=new{@class="form-control"}})
+    @Html.LabelFor(emp=>emp.Age,new{@class="form-control"})
+    @Html.EditorFor(emp=>emp.Age,new{ htmlAttributes=new{@class="form-control"}})
+    <button class="btn btn-success">Create Employee</button>
+
+}

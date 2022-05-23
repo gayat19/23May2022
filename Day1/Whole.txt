@@ -1,0 +1,40 @@
+Web
+  HTML
+  CSS - Bootstrap
+  JavaScript
+  jQuery
+  Ajax
+
+RDBMS
+  MySQL
+  SQL Server
+
+PL
+ C#
+   OOPS
+   Database coonection 
+     ADO.NET
+     EF
+   LINQ
+   Delegates
+   Exception Handling
+   Async Prog - IL
+   File Handling
+
+Testing
+
+Web Programming
+  ASP.NET
+  MVC
+.NET COre
+  ASP.NET Core
+    MVC Core
+    Web API Core
+Testing
+
+Angular/React
+
+Azure
+
+
+

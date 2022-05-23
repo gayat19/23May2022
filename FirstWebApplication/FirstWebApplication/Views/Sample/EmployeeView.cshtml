@@ -1,0 +1,28 @@
+﻿@model FirstWebApplication.Models.Employee
+<style>
+    div{
+        background-color:beige;
+        height:200px;
+        width:200px;
+        border:2px solid darkolivegreen;
+    }
+</style>
+@*<div>
+    Employee Id: @ViewBag.emp.Id
+    <br />
+    Employee Name: @ViewBag.emp.Name
+    <br />
+    Employee Age: @ViewBag.emp.Age
+    <br />
+</div>
+<p>
+    Data from view data - @ViewData["name"]
+</p>*@
+<div>
+    Employee Id: @Model.Id
+    <br />
+    Employee Name: @Model.Name
+    <br />
+    Employee Age: @Model.Age
+    <br />
+</div>

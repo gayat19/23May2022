@@ -1,0 +1,13 @@
+﻿@model IEnumerable<FirstWebApplication.Models.Employee>
+
+    @foreach (var item in Model)
+   {
+      <p>
+            Employee Id: @item.Id
+            <br />
+            Employee Name: @item.Name
+            <br />
+            Employee Age: @item.Age
+            <hr>
+      </p>
+   }

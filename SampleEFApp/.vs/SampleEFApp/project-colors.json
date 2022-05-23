@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b8f65700-9e91-4cd6-bb41-1fd015641c8b": {
+      "ProjectGuid": "b8f65700-9e91-4cd6-bb41-1fd015641c8b",
+      "DisplayName": "SampleEFApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,10 @@
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\SampleConnectApp\bin\Debug\SampleConnectApp.exe.config
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\SampleConnectApp\bin\Debug\SampleConnectApp.exe
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\SampleConnectApp\bin\Debug\SampleConnectApp.pdb
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\SampleConnectApp\obj\Debug\SampleConnectApp.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\SampleConnectApp\obj\Debug\SampleConnectApp.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\SampleConnectApp\obj\Debug\SampleConnectApp.exe
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\SampleConnectApp\obj\Debug\SampleConnectApp.pdb
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\SampleConnectApp\bin\Debug\EntityFramework.dll
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\SampleConnectApp\bin\Debug\EntityFramework.xml
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\SampleConnectApp\obj\Debug\SampleConnectApp.csproj.CopyComplete

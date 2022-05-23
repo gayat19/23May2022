@@ -1,0 +1,15 @@
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\firstcoreapp\bin\Debug\net6.0\firstcoreapp.exe
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\firstcoreapp\bin\Debug\net6.0\firstcoreapp.deps.json
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\firstcoreapp\bin\Debug\net6.0\firstcoreapp.runtimeconfig.json
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\firstcoreapp\bin\Debug\net6.0\firstcoreapp.dll
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\firstcoreapp\bin\Debug\net6.0\ref\firstcoreapp.dll
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\firstcoreapp\bin\Debug\net6.0\firstcoreapp.pdb
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\firstcoreapp\obj\Debug\net6.0\firstcoreapp.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\firstcoreapp\obj\Debug\net6.0\firstcoreapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\firstcoreapp\obj\Debug\net6.0\firstcoreapp.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\firstcoreapp\obj\Debug\net6.0\firstcoreapp.AssemblyInfo.cs
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\firstcoreapp\obj\Debug\net6.0\firstcoreapp.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\firstcoreapp\obj\Debug\net6.0\firstcoreapp.dll
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\firstcoreapp\obj\Debug\net6.0\ref\firstcoreapp.dll
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\firstcoreapp\obj\Debug\net6.0\firstcoreapp.pdb
+D:\Data\d drive\Corp\RPS\CTS\INTCDE22ID010\firstcoreapp\obj\Debug\net6.0\firstcoreapp.genruntimeconfig.cache
