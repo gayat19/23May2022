@@ -1,6 +1,8 @@
+using ExampleApplication.Models;
 using ExampleApplication.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -26,6 +28,10 @@ namespace ExampleApplication
         {
             services.AddControllersWithViews();
             services.AddScoped<ISample, SampleService>();
+            services.AddDbContext<CompanyContext>(opts =>{
+                opts.UseSqlServer(Configuration.GetConnectionString("conn"));
+            });
+            services.AddScoped<IRepo<int,Employee>,EmployeeRepo>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

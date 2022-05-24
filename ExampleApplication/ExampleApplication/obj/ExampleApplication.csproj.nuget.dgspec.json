@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Data\\d drive\\Corp\\RPS\\CTS\\INTCDE22ID010\\ExampleApplication\\ExampleApplication\\ExampleApplication.csproj": {}
+    "D:\\Data\\d drive\\Corp\\RPS\\CTS\\INTCDE22ID010\\Participants\\ExampleApplication\\ExampleApplication\\ExampleApplication.csproj": {}
   },
   "projects": {
-    "D:\\Data\\d drive\\Corp\\RPS\\CTS\\INTCDE22ID010\\ExampleApplication\\ExampleApplication\\ExampleApplication.csproj": {
+    "D:\\Data\\d drive\\Corp\\RPS\\CTS\\INTCDE22ID010\\Participants\\ExampleApplication\\ExampleApplication\\ExampleApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Data\\d drive\\Corp\\RPS\\CTS\\INTCDE22ID010\\ExampleApplication\\ExampleApplication\\ExampleApplication.csproj",
+        "projectUniqueName": "D:\\Data\\d drive\\Corp\\RPS\\CTS\\INTCDE22ID010\\Participants\\ExampleApplication\\ExampleApplication\\ExampleApplication.csproj",
         "projectName": "ExampleApplication",
-        "projectPath": "D:\\Data\\d drive\\Corp\\RPS\\CTS\\INTCDE22ID010\\ExampleApplication\\ExampleApplication\\ExampleApplication.csproj",
+        "projectPath": "D:\\Data\\d drive\\Corp\\RPS\\CTS\\INTCDE22ID010\\Participants\\ExampleApplication\\ExampleApplication\\ExampleApplication.csproj",
         "packagesPath": "C:\\Users\\gayat\\.nuget\\packages\\",
-        "outputPath": "D:\\Data\\d drive\\Corp\\RPS\\CTS\\INTCDE22ID010\\ExampleApplication\\ExampleApplication\\obj\\",
+        "outputPath": "D:\\Data\\d drive\\Corp\\RPS\\CTS\\INTCDE22ID010\\Participants\\ExampleApplication\\ExampleApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,9 +44,23 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
             "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
               "target": "Package",
               "version": "[5.0.4, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
             }
           },
           "imports": [
