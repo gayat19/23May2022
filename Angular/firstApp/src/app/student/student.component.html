@@ -1,0 +1,15 @@
+<p>student works!</p>
+<div>
+    <!-- Interpollation-oneway binding -->
+    Hello {{name}}
+    <br>
+    <!-- Property Binding-oneway -->
+    Oneway: Property:<input type="text" [value]="name">
+    <br>
+    <!-- Event Binding-oneway -->
+    Oneway: Event:<input type="text" #sname 
+    (change)="changeName(sname.value)">
+    <br>
+    <!-- Event Binding-oneway -->
+    Twoway: ngModel:<input type="text" [(ngModel)]="name">
+</div>

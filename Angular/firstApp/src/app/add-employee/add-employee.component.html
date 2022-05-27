@@ -1,0 +1,21 @@
+<div>
+  <table>
+      <tr>
+          <td>Employee Id</td>
+          <td><input type="number" [(ngModel)]="employee.id"></td>
+      </tr>
+      <tr>
+        <td>Employee Name</td>
+        <td><input type="text" [(ngModel)]="employee.name"></td>
+    </tr>
+    <tr>
+        <td>Employee Age</td>
+        <td><input type="number" [(ngModel)]="employee.age"></td>
+    </tr>
+    <tr>
+        <td>Employee Salary</td>
+        <td><input type="number" [(ngModel)]="employee.salary"></td>
+    </tr>
+  </table>
+  <button (click)="insertEmployee()">Add Employee</button>
+</div>
