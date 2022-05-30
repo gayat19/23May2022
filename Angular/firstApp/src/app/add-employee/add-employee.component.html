@@ -2,20 +2,28 @@
   <table>
       <tr>
           <td>Employee Id</td>
-          <td><input type="number" [(ngModel)]="employee.id"></td>
+          <td><input class="form-control" type="number" [(ngModel)]="employee.id"></td>
       </tr>
       <tr>
         <td>Employee Name</td>
-        <td><input type="text" [(ngModel)]="employee.name"></td>
+        <td><input class="form-control" type="text" [(ngModel)]="employee.name"></td>
     </tr>
     <tr>
         <td>Employee Age</td>
-        <td><input type="number" [(ngModel)]="employee.age"></td>
+        <td><input class="form-control" type="number" [(ngModel)]="employee.age"></td>
     </tr>
     <tr>
         <td>Employee Salary</td>
-        <td><input type="number" [(ngModel)]="employee.salary"></td>
+        <td><input class="form-control" type="number" [(ngModel)]="employee.salary"></td>
     </tr>
+    <tr>
+      <td>Employee Pic</td>
+      <td><input class="form-control" type="file" #epic></td>
+  </tr>
+  <tr>
+    <td>Employee Likes</td>
+    <td><input class="form-control" type="number" [(ngModel)]="employee.likes"></td>
+</tr>
   </table>
-  <button (click)="insertEmployee()">Add Employee</button>
+  <button class="btn btn-success" (click)="insertEmployee(epic)">Add Employee</button>
 </div>

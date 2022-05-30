@@ -4,7 +4,7 @@ export class ExmployeeService{
     employees:Employee[];
     constructor(){
         this.employees =[
-            new Employee(101,"Ramu",21,243534)
+            new Employee(101,"Ramu",21,243534,"assets/images/Pic1.jpg",1)
         ];
     }
     getEmployees(){

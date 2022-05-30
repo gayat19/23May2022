@@ -1,0 +1,9 @@
+<h2>
+    Employee Details
+</h2>
+<section>
+    Total Likes:{{totalLikes}}
+</section>
+<div *ngFor="let emp of employees">
+   <app-employee [employee]="emp" (countLikes)="showLikes()"></app-employee>
+</div>

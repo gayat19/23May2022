@@ -1,14 +1,18 @@
-<p>employee works!</p>
-<h2>
-    Employee Details
-</h2>
-<div *ngFor="let employee of employees">
-    Employee Id : {{employee.id}}
-    <br>
-    Employee Name : {{employee.name}}
-    <br>
-    Employee Age : {{employee.age}}
-    <br>
-    Employee Salary : {{employee.salary}}
-    <br>
+<div  >
+    <p class="alert alert-info" >
+        Employee Id : {{employee.id}}
+        <br>
+        Employee Name : {{employee.name}}
+        <br>
+        Employee Age : {{employee.age}}
+        <br>
+        Employee Salary : {{employee.salary}}
+        <br>
+        Employee Likes count : {{employee.likes}}
+        <i class="fas fa-thumbs-up" (click)="increaseLike()"></i>
+    </p>
+
+    <img [src]="employee.pic" height="150" width="150">
 </div>
+
+

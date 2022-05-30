@@ -1,0 +1,13 @@
+SPA -> Single Page application
+
+Components - User-Defined - ts, spec, html, css
+Directive - InBuild, User-Defined
+Services - Classes -InBuild, User-Defined
+Pipes -> InBuild, User-Defined
+Modules-> AppModule, RoutingModule
+
+Data Binding -> Oneway component->HTML=>Interpollation
+Twoway-> Oneway component<->HTML=>Fomrs Module - ngModel
+
+Property Binding -> Oneway component->HTML
+Event Binding -> Oneway component<-HTML

@@ -14,7 +14,8 @@ export class AddEmployeeComponent implements OnInit {
     this.employee = new Employee();
   }
 
-  insertEmployee(){
+  insertEmployee(epic){
+    this.employee.pic = "assets/images/"+epic.files.item(0).name;
     this.employeeService.addEmployee(this.employee);
   }
   ngOnInit(): void {
