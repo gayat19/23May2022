@@ -1,0 +1,10 @@
+<div class="alert alert-danger">
+    <label class="form-control">Username</label>
+    <input type="text" class="form-control" [(ngModel)]="un" #uname="ngModel" required>
+    <span class="alert alert-danger" *ngIf="uname.valid==false&& uname.touched">
+        Username is mandit
+    </span>
+    <label class="form-control">Password</label>
+    <input type="password" class="form-control" [(ngModel)]="pass">
+    <button class="btn btn-primary" (click)="login(uname)">Login </button>
+</div>  

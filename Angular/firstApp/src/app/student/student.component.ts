@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { ActivatedRoute } from '@angular/router';
 
 @Component({
   selector: 'app-student',
@@ -8,8 +9,9 @@ import { Component, OnInit } from '@angular/core';
 export class StudentComponent implements OnInit {
 
   name:string;
-  constructor() { 
+  constructor(private activeRoute:ActivatedRoute) { 
     this.name="Ramu";
+    this.name = this.activeRoute.snapshot.params["uname"];
   }
 
   ngOnInit(): void {

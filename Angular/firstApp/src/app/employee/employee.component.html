@@ -2,17 +2,20 @@
     <p class="alert alert-info" >
         Employee Id : {{employee.id}}
         <br>
-        Employee Name : {{employee.name}}
+        Employee Name : {{employee.name | lowercase}}
         <br>
-        Employee Age : {{employee.age}}
+        Employee Age : {{employee.age }}
         <br>
-        Employee Salary : {{employee.salary}}
+        Employee Salary : {{employee.salary | currency:'YEN'}} 
         <br>
         Employee Likes count : {{employee.likes}}
         <i class="fas fa-thumbs-up" (click)="increaseLike()"></i>
     </p>
 
-    <img [src]="employee.pic" height="150" width="150">
+    <img *ngIf="employee.pic; else other" [src]="employee.pic" height="150" width="150">
+    <ng-template #other>
+        No image
+    </ng-template>
 </div>
 
 

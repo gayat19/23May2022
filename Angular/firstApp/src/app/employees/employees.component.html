@@ -7,3 +7,4 @@
 <div *ngFor="let emp of employees">
    <app-employee [employee]="emp" (countLikes)="showLikes()"></app-employee>
 </div>
+<button class="btn btn-primary" (click)="getEmployees()">check</button>

@@ -1,5 +1,38 @@
-<app-add-employee></app-add-employee>
-<hr>
-<app-employees></app-employees>
+
 <!-- <hr>
 <app-student></app-student> -->
+<!-- <div [ngSwitch]="choice">
+    <nav class="navbar navbar-expand-sm bg-light navbar-light">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link" (click)="choice='add'" >Add-Employee</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" (click)="choice='show'" >Display-employee</a>
+          </li> 
+        </ul>
+      </nav>
+     <section *ngSwitchCase="'add'">
+        <app-add-employee></app-add-employee>
+     </section>
+
+    <section *ngSwitchCase="'show'">
+        <app-employees></app-employees>
+    </section>
+</div> -->
+<div>
+  <nav class="navbar navbar-expand-sm bg-light navbar-light">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" routerLink=""  >Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLink="add"  >Add-Employee</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLink="show" >Display-employee</a>
+        </li> 
+      </ul>
+    </nav>
+  <router-outlet></router-outlet>
+</div>

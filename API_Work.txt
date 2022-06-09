@@ -1,0 +1,26 @@
+API ->
+Web API -> http
+RESTful Service -> 
+http
+GET -> Retriving Data
+PUT -> Edit
+POST -> Create
+DELETE -> Delete
+http://localhost:34567/Employee -> GET => Gets all the employee
+http://localhost:34567/Employee/101 -> GET => Gets the employee with ID 101
+http://localhost:34567/Employee/D1 -> GET => Gets all the employee from the department D1
+
+http://localhost:34567/Employee -> POST -> Body of request contains the employee object => Creates a new employee
+
+http://localhost:34567/Employee/101 -> PUT-> Body of request contains the new details of the employee  object => Edits the details of employee 101
+
+
+http://localhost:34567/Employee/101 -> DELETE => Deletes the employee 101
+
+bat "\"C:/Program Files (x86)/NUnit.org/nunit-console/nunit3-console.exe"  /"${workspace}/\samplepipeline\TestProject1\bin\Debug\netcoreapp3.1\TestProject1.dll" --result=TestR.xml;format=nunit2"
+
+
+ bat "\"C:/Program Files (x86)/NUnit.org/nunit-console/nunit3-console.exe\"  \"${workspace}/TestProject1/bin/Debug/netcoreapp3.1/TestProject1.dll\" \"--inprocess\""
+
+
+1a912a3014c41f47791660c56391da33025088ef

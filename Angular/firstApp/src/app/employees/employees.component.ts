@@ -22,5 +22,11 @@ totalLikes:number;
    }
   ngOnInit(): void {
   }
-
+  getEmployees(){
+    this.employeeService.getEmployeesFromAPI().subscribe(data=>
+      {
+          console.log(data);
+          this.employees = data as Employee[];
+      })
+  }
 }
